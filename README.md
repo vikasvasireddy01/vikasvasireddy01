@@ -6,8 +6,9 @@ Welcome to my GitHub profile! I'm Vikas, a passionate Software Engineer 🖥️ 
 
 ## Connect with me
 
-[<img src="https://img.icons8.com/color/linkedin-circled--v1.png" width="30px"/>](https://linkedin.com/in/vikasvasireddy/) 
+[<img src="https://img.icons8.com/color/linkedin-circled--v1.png" width="30px"/>](https://linkedin.com/in/vikasvasireddy/)
 [<img src="https://img.icons8.com/color/open-resume.png" width="30px"/>](URL-to-your-resume)
+
 
 ## Education 🏫
 
