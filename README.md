@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Vikas, a passionate Software Engineer 🖥️ 
 ## Connect with me
 
 [<img src="https://img.icons8.com/color/linkedin-circled--v1.png" width="30px"/>](https://linkedin.com/in/vikasvasireddy/)
-[<img src="https://img.icons8.com/color/open-resume.png" width="30px"/>](https://drive.google.com/file/d/1R7wsC9bBTDnS5r3Cr4Ac0z2RyoGueIlE/view?usp=sharing)
+[<img src="https://img.icons8.com/ios-filled/50/000000/document.png"/>](https://drive.google.com/file/d/1R7wsC9bBTDnS5r3Cr4Ac0z2RyoGueIlE/view?usp=sharing)
 
 
 ## Education 🏫
@@ -55,10 +55,10 @@ Welcome to my GitHub profile! I'm Vikas, a passionate Software Engineer 🖥️ 
 Feel free to explore my repositories to see the projects I'm working on and have contributed to. Let's connect! 🌐
 
 [![LinkedIn](https://img.icons8.com/color/linkedin-circled--v1.png)](https://linkedin.com/in/vikasvasireddy/) 
-[![Resume](https://img.icons8.com/color/open-resume.png)](URL-to-your-resume)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vikasvasireddy/)
 [![Gmail](https://img.shields.io/badge/Email-me-red?style=for-the-badge&logo=gmail)](mailto:youremail@gmail.com)
 
 
