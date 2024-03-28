@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Vikas, a passionate Software Engineer 🖥️ 
 ## Connect with me
 
 [<img src="https://img.icons8.com/color/linkedin-circled--v1.png" width="30px"/>](https://linkedin.com/in/vikasvasireddy/)
-[<img src="https://img.icons8.com/ios-filled/50/000000/document.png"/>](https://drive.google.com/file/d/1R7wsC9bBTDnS5r3Cr4Ac0z2RyoGueIlE/view?usp=sharing)
+[<img src="https://img.icons8.com/ios/50/000000/briefcase--v1.png"/>](https://drive.google.com/file/d/1R7wsC9bBTDnS5r3Cr4Ac0z2RyoGueIlE/view?usp=sharing)
 
 
 ## Education 🏫
@@ -68,6 +68,7 @@ Feel free to explore my repositories to see the projects I'm working on and have
 
 Here are some ideas to get you started:
 
+[<img src="https://img.icons8.com/ios-filled/50/000000/document.png"/>]
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
